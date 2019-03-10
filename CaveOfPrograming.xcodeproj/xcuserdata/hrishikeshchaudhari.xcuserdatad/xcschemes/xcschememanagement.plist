@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>37</integer>
 		</dict>
+		<key>accumulate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
 		<key>auto.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -199,6 +204,11 @@
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
+		<key>stdNext.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
 		<key>stirngsC.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -308,6 +318,16 @@
 			<true/>
 		</dict>
 		<key>6575526D215DD65B000A000F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>657BA6D022353F320000D707</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>657BA6DB22353FB00000D707</key>
 		<dict>
 			<key>primary</key>
 			<true/>
